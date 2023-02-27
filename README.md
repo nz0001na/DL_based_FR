@@ -21,3 +21,13 @@ matching;
 
 ![arch](png/loss_lfw.png)
 ![arch](png/loss_YTF.png)
+
+# performance comparison of existing DL based methods on image database LFW
+![arch](png/lfw.png)
+
+# performance comparison of existing DL based methods on image database IJB-A
+![arch](png/ijba_far=0.01.png)
+
+# performance comparison of existing DL based methods on video database YouTube Faces (YTF)
+![arch](png/YTF.png)
+
