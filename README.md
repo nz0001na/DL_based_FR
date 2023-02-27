@@ -11,6 +11,11 @@ This repository contains main papers/slides for the survey paper.
 matching;
 ✔ Various face datasets have been collected in recent years, including still images, videos, and heterogeneous data.
 
+### Link: 
+
+[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1077314219301183)
+[[Paper Repository]](https://www.sciencedirect.com/science/article/abs/pii/S1077314219301183)
+
 
 # paper distribution
 
