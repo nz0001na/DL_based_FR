@@ -1,0 +1,23 @@
+# A survey on deep learning based face recognition
+Some materials for paper 'A survey on deep learning based face recognition'
+
+![arch](png/abstract.png)
+
+This repository contains main papers/slides for the survey paper.
+• This survey presents a comprehensive overview of about 330 face recognition works using deep learning within the recent years
+• It shows that:
+✔ DL has been fully applied to FR and plays important roles;
+✔ Many specific issues or challenges have been addressed in FR by DL, e.g., pose, illumination, expression, 3D, heterogenous
+matching;
+✔ Various face datasets have been collected in recent years, including still images, videos, and heterogeneous data.
+
+
+# paper distribution
+
+![arch](png/distribution.png)
+
+
+# performance comparison of different loss function on LFW, YTF
+
+![arch](png/loss_lfw.png)
+![arch](png/loss_YTF.png)
