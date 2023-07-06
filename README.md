@@ -1,6 +1,15 @@
 # A survey on deep learning based face recognition
 Some materials for paper 'A survey on deep learning based face recognition'
 
+# Abstract
+Deep learning, in particular the deep convolutional neural networks, has received increasing interests
+in face recognition recently, and a number of deep learning methods have been proposed. This paper
+summarizes about 330 contributions in this area. It reviews major deep learning concepts pertinent
+to face image analysis and face recognition, and provides a concise overview of studies on specific
+face recognition problems, such as handling variations in pose, age, illumination, expression, and
+heterogeneous face matching. A summary of databases used for deep face recognition is given as
+well. Finally, some open challenges and directions are discussed for future research.
+
 ![arch](png/abstract.png)
 
 This repository contains main papers/slides for the survey paper.
