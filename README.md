@@ -1,5 +1,9 @@
 # A survey on deep learning based face recognition
-Some materials for paper 'A survey on deep learning based face recognition'
+Materials for paper 'A survey on deep learning based face recognition'
+
+# Link: 
+[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1077314219301183)
+
 
 # Abstract
 Deep learning, in particular the deep convolutional neural networks, has received increasing interests
@@ -20,10 +24,7 @@ This repository contains main papers/slides for the survey paper.
 matching;
 ✔ Various face datasets have been collected in recent years, including still images, videos, and heterogeneous data.
 
-### Link: 
 
-[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1077314219301183)
-[[Paper Repository]](https://drive.google.com/file/d/1bBUjCSEKrx5HtDunEzX9SaSsPIHFpJkk/view?usp=share_link)
 
 
 # paper distribution
